@@ -1,0 +1,2604 @@
+Cisco AP Name.................................... DEUa-064E1M1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1M1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1K1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1K1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1D1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1D1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1O1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1O1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1S1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1S1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1I1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1I1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1N1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1N1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1C1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1J1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1J1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-DorB1D1-23
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-DorB1D1-23
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-15
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-15
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1T1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1E1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1E1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1E1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1E1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1H1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1H1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1U1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1U1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1B1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1B1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1M1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1M1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1G1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1G1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-14
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1P1-14
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-14
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-14
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1D1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1D1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-14
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-14
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1Q1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1E1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1E1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1F1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1F1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1K1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1K1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1J1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1J1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1N1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1N1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1Z3-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z3-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1B1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1B1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1G1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1G1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1A2-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1A2-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP286f.7f8f.b7dc
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP286f.7f8f.b7dc
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP0078.8891.ed94
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP0078.8891.ed94
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1S1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1S1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1Z3-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z3-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP003a.7dcb.c4ec
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP003a.7dcb.c4ec
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1E1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1E1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP286f.7fc3.5b50
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP286f.7fc3.5b50
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP003a.7dcb.bc10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP003a.7dcb.bc10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1L1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1L1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1Q1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP2cd0.2da3.1c14
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP2cd0.2da3.1c14
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP2cd0.2da3.1bd4
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP2cd0.2da3.1bd4
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1E1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1E1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP286f.7fc3.6ba0
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP286f.7fc3.6ba0
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1J1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1J1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1K1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1K1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1K1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1K1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1K1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1K1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1L1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1L1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1L1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1L1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP286f.7fc3.6cb8
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP286f.7fc3.6cb8
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z2-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z2-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1I1-15
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1I1-15
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1J1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1J1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2B1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2B1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1G1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1O1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1O1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1D1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1D1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1G1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1G1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1I1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1I1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1K1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1K1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1U1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1U1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1C1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1C1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1D1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1D1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2E2-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2E2-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1K1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1K1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1G1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1M1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1M1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1G1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2F1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2F1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1G1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1G1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1G1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1C1-21
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1C1-21
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1C1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1F1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1F1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1B1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1B1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1F1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1F1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1D1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1D1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1G1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1S1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1S1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C2-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C2-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1B1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1B1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1B1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-424C1B1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1C1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1C1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1B1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1B1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP286f.7f64.b078
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP286f.7f64.b078
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1M1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-424C1M1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1M1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1M1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1M1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-424C1M1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1M1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1M1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1F1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1F1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1M1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1M1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-DORC1M1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-DORC1M1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1M1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1M1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1B1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1B1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1N1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1N1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z2-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z2-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1B1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1B1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1C1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1C1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1J1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1J1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1A2-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1A2-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2B1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2B1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1K1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1K1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2P1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1I1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1I1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1D1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1D1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1I1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1I1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1C1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1S1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1S1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1D1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1D1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1J1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1J1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1H1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1H1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2U1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2U1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1I1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1I1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2G1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2G1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1A2-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1A2-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2B1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2B1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1K1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1K1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C2-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C2-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-DORB1D1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-DORB1D1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1D1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1D1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1I1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1I1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1C1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1C1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1D1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1D1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1I1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1I1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1B1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-424C1B1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1H1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1H1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1F1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1F1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-DORB1C1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-DORB1C1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1K1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1K1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1I1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1I1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1S1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1S1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1C1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1F1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1F1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1I1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1I1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Q1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Q1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1F1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1F1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1C1-14
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-14
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1I1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1I1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1C1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1Z3-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z3-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1B1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1B1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2N1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2N1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1O1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1O1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-16
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-16
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1G1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1G1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1H1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1H1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1E1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1E1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1D1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1D1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2X1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2X1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1S1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1S1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2G1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2G1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1G1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1G1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1C1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1C1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1L1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1L1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1H1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1H1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1R1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP003a.7dcb.b584
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP003a.7dcb.b584
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1A2-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1A2-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1C1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1C1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1C1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2D1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2D1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1S1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1S1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1E1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1E1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2J1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1C1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1C1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1C1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1C1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1L1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1L1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1J1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1J1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1C1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1C1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1E1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1E1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1L1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1L1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1S1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1S1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1A2-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1A2-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1M1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1M1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1B1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1B1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1Q1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1Q1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1F1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1F1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1F1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1F1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1A2-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1A2-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1Z3-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z3-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1E1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1E1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1B1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1B1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-DorB1D1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-DorB1D1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1F1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1F1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1D1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1D1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1G1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1G1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1U1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1U1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1D1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1D1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1L1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1L1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP0078.88b9.60c4
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP0078.88b9.60c4
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1E1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1E1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-15
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-15
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2N1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2N1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1J1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1J1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1F1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1F1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP2cd0.2d82.bf24
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP2cd0.2d82.bf24
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1S1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1S1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-20
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-20
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1J1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1J1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1J1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1J1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1H1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1H1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1K1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1K1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1I1-19
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1I1-19
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1B1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1B1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1G1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2J1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1Z3-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z3-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1S1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1S1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2E2-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2E2-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1L1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1L1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1F1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1F1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1C1-15
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1C1-15
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2P1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1D1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1D1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP2cd0.2d7b.faec
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP2cd0.2d7b.faec
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1L1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1L1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1E1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 4
+Cisco AP Name.................................... DEUa-064E1E1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2H1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2H1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1Z3-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1Z3-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-208A1Z3-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-208A1Z3-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-424C1K1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-424C1K1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1T1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1T1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2F1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2F1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1P1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1P1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1K1-14
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1K1-14
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1J1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1J1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP0042.6844.c348
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP0042.6844.c348
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1N1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-064E1N1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2P1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2X1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2X1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Q1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Q1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2X1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2X1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2D1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2D1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C2-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C2-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2E2-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2E2-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2X1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2X1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... APa0e0.afb0.1cc4
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... APa0e0.afb0.1cc4
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2P1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-064E1R1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 12
+Cisco AP Name.................................... DEUa-064E1R1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2J1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2X1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2X1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2H1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2H1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2E2-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2E2-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2J1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2E2-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2E2-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2J1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-13
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-13
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2F1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2F1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2V1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2V1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2D1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2D1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Q1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Q1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C2-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C2-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP286f.7f64.b164
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP286f.7f64.b164
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2U1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2U1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2N1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2N1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C2-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C2-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2E1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2E1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Q1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Q1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2E1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2E1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Q1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Q1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... AP2cd0.2d82.c190
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... AP2cd0.2d82.c190
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2I1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2I1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C2-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C2-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2J1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2R1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2R1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2U1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2U1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2J1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-06
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-06
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Q1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Q1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2S1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2S1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2H1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2H1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2P1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2N1-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2N1-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2T1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2T1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2P1-08
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-08
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2P1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2P1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2N1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2N1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-09
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-09
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-14
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-14
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2L1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2L1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2E2-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2E2-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2U1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2U1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2T1-02
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2T1-02
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2C1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2C1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2N1-05
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2N1-05
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2O1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2O1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2U1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2U1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2T1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2T1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Q1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Q1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-03
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-03
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-11
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-11
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2F1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2F1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2M1-10
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2M1-10
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2K1-04
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2K1-04
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2J1-01
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2J1-01
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-072E2Z2-07
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-072E2Z2-07
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
+Cisco AP Name.................................... DEUa-DorB1D1-12
+    Radio Type................................... RADIO_TYPE_80211n-2.4
+      External Antenna Gain (in .5 dBi units).... 0
+Cisco AP Name.................................... DEUa-DorB1D1-12
+    Radio Type................................... RADIO_TYPE_80211ac-5
+      External Antenna Gain (in .5 dBi units).... 8
